@@ -100599,7 +100599,7 @@ q=new B.bP(Date.now(),0,!1)
 p=r!=null?A.v.bU(q.f_(r).a,6e7):999
 if(p<2){o=A.bM
 n=A.Uz
-m="Activo"}else if(p<5){o=A.cE
+m="Activo"}else if(p<10){o=A.cE
 n=A.V2
 m="Revisar"}else{o=A.bD
 n=A.UF
